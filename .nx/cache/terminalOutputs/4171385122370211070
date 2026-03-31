@@ -1,0 +1,4 @@
+> nx run worker:build
+
+Compiling TypeScript files for project "worker"...
+Done compiling TypeScript files for project "worker".

@@ -1,0 +1,3 @@
+> node dist/apps/worker/src/main.js
+
+Hello World
